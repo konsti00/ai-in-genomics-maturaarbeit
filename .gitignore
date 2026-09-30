@@ -1,0 +1,36 @@
+# Input data (see README) and generated outputs are not part of the repository.
+*.hdf5
+*.tar
+*.tar.gz
+*.npy
+*.npz
+*.csv
+*.csv.gz
+*.tsv
+*.tsv.gz
+*.png
+*.pdf
+*.json
+*.log
+*.panel
+extBALSIT_hmp.txt
+ALS_phenotypes.txt
+1001_SNP_MATRIX/
+ft10_blocks/
+ft10_gapit_results/
+ft16_gapit_results/
+genotype_blocks/
+genotype_chunks/
+blind_simulation/
+context_calibrated_simulation/
+*_seed[0-9]*/
+GAPIT.*
+*_summary.txt
+run_summary.txt
+
+# Python and system files
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+.Rhistory
