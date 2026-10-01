@@ -1,9 +1,8 @@
 # Artificial Intelligence in Genomics: Validating Machine Learning for Genetic Association
 
 Analysis code for the Matura thesis *Artificial Intelligence in Genomics:
-Validating Machine Learning for Genetic Association* by Konstantin Friederich
-(Kantonsschule Menzingen KSM, 2026; supervisor: Lukas Wille; co-examiner:
-Mirco Triner).
+Validating Machine Learning for Genetic Association* 
+
 
 The thesis compares classical genome-wide association studies (GWAS) with the
 machine-learning methods Random Forest and Gradient Boosting. The workflow was
