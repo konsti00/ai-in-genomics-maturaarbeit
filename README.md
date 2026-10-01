@@ -186,7 +186,7 @@ several hours.
   step that was originally run as a one-off command. It reproduces the
   original FT16 input file exactly.
 - As declared in the thesis, a generative-AI coding assistant was used under
-  the author's direction to help write and revise these scripts.
+  my direction to help write and revise these scripts.
 
 ## Data and software references
 
