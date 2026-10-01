@@ -13,7 +13,7 @@ pigmentation score.
 
 This repository contains the code used for the analyses described in the
 Materials and Methods chapter. It does not contain the input data (see
-[Data](#data)) or the code used to write and format the thesis document.
+[Data](#data)).
 
 ## Contents
 
